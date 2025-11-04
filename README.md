@@ -1,8 +1,8 @@
-### PRUEBA TÉCNICA: CONSULTAS SQL
+# Prueba Técnica: Consultas SQL
 
-Este README contiene la información general de un conjunto de consultas SQL aplicadas a la base de datos Sakila, que simula una tienda de alquiler de películas. Realizada por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (año 2025)**. 
+Este README contiene la información general de un conjunto de consultas SQL aplicadas a la base de datos Sakila, que simula una tienda de alquiler de películas. Realizada por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (Septiembre 2025)**. 
 
-#### Descripción
+## Descripción
 
 El objetivo es realizar una serie de consultas sobre películas, actores, clientes, categorías y alquileres.
 
@@ -13,7 +13,7 @@ Antes de comenzar a desarrollar las consultas en SQL, se ha clonado el repositor
 ---
 
 
-#### Base de Datos
+## Base de Datos
 
 La base de datos Sakila incluye las siguientes tablas principales con las que se ha trabajado:
 
@@ -37,7 +37,7 @@ inventory	     Inventario de películas disponibles por tienda
 
 ---
 
-#### Instalación y Ejecución
+## Instalación y Ejecución
 
 La base de datos ya está creada, por lo que solo es necesario seleccionarla:
 
@@ -49,7 +49,7 @@ Después se ejecuta el archivo SQL con todas las consultas.
 ---
 
 
-#### Observaciones
+## Observaciones
 
 - Se trabaja con queries básicas y avanzadas.
 
