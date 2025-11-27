@@ -1,6 +1,6 @@
 # Consultas SQL sobre la base de datos Sakila para el análisis de alquileres, clientes y películas.
 
-### Proyecto desarrollado por **Ana Dueñas** ,Adalab, Septiembre 2025.
+### Proyecto desarrollado por **Ana Dueñas** , Septiembre 2025.
 
   ## Descripción
   
